@@ -24,6 +24,11 @@ SCREENSHOT OF THE GAME PAGE
 
 
 
+SCREENSHOT OF THE GAME IN PROGRESS
+![Screenshot 2025-07-08 171446](https://github.com/user-attachments/assets/6a9058e6-6929-42bd-99d4-fe63e06d1e9b)
+
+
+
 SCREENSHOT OF THE WINNNG PAGE
 ![Screenshot 2025-07-07 151025](https://github.com/user-attachments/assets/cb4758b3-3f24-4f13-b7a3-aecdabb0328a)
 
